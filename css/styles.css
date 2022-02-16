@@ -4621,7 +4621,7 @@ textarea.form-control-lg {
   color: #fff;
 }
 
-.card {
+/* .card {
   position: relative;
   display: flex;
   flex-direction: column;
@@ -4631,7 +4631,7 @@ textarea.form-control-lg {
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
-}
+} */
 .card > hr {
   margin-right: 0;
   margin-left: 0;
@@ -7870,6 +7870,7 @@ textarea.form-control-lg {
 }
 
 .text-uppercase {
+  color:white;
   text-transform: uppercase !important;
 }
 
@@ -11663,7 +11664,7 @@ body {
 }
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #64a19d;
+  /* border-bottom: 0.25rem solid #64a19d; */
 }
 .contact-section .card h4, .contact-section .card .h4 {
   font-size: 0.8rem;
@@ -11701,4 +11702,7 @@ body {
 
 .self{
   width: 550px;
+}
+.about{
+  color: white;
 }
