@@ -11698,3 +11698,7 @@ body {
 .footer {
   padding: 5rem 0;
 }
+
+.self{
+  width: 550px;
+}
