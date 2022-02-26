@@ -11707,3 +11707,10 @@ body {
 .about{
   color: white;
 }
+
+.skills{
+  padding-top: 40px;
+}
+#skills{
+  background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
+}
