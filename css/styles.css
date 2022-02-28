@@ -11719,8 +11719,10 @@ body {
 }
 .contact{
   color: white;
+  align-items: center;
+  justify-content: center;
 }
-.contact-box{
+.contacrs-box{
   align-items: center;
   justify-content: center;
 }
